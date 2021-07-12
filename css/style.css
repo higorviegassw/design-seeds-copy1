@@ -34,3 +34,8 @@ titulo meio: homemade apple 24
 
     font-family: 'Playfair Display', serif;
 */
+
+/* Geral */
+img {
+    max-width: 100%;
+}
